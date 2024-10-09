@@ -7,6 +7,35 @@ from selenium.webdriver.common.action_chains import ActionChains
 from bs4 import BeautifulSoup
 import time
 import json
+import re
+
+def get_email_and_photo_from_profile(driver, profile_url):
+    driver.get(profile_url)
+    time.sleep(2)  # Wait for the page to load
+
+    email = None
+    photo_url = None
+
+    try:
+        # Look for the email
+        email_li = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "li.teacher__links--email"))
+        )
+        email_element = email_li.find_element(By.TAG_NAME, "a")
+        email = email_element.get_attribute('href').replace('mailto:', '')
+
+        # Look for the profile picture using the new class
+        photo_element = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "img.sc-vIzOl.cHsNCT"))
+        )
+        photo_url = photo_element.get_attribute('src')
+
+    except TimeoutException:
+        print(f"Email or photo not found for {profile_url}")
+    except NoSuchElementException:
+        print(f"Element structure not as expected for {profile_url}")
+
+    return email, photo_url
 
 def scrape_website(url):
     # Setup Selenium WebDriver (make sure to download the appropriate driver for your browser)
@@ -22,7 +51,7 @@ def scrape_website(url):
         time.sleep(2)  # Wait for the page to load after scrolling
 
     # Function to click the "loadmore__button"
-    def click_load_more(max_retries=5):
+    def click_load_more(max_retries=1):
         for _ in range(max_retries):
             try:
                 scroll_down()
@@ -62,9 +91,21 @@ def scrape_website(url):
     for title in name_titles:
         h3_text = title.find('h3').text.strip() if title.find('h3') else ''
         p_text = title.find('p').text.strip() if title.find('p') else ''
+        
+        # Create URL from the name
+        name_parts = h3_text.lower().split()
+        url_name = "-".join(name_parts)
+        profile_url = f"https://www.insper.edu.br/pt/docentes/{url_name}"
+        
+        # Get email from profile page
+        email, photo_url = get_email_and_photo_from_profile(driver, profile_url)
+        
         data.append({
-            "h3": h3_text,
-            "p": p_text
+            "name": h3_text,
+            "position": p_text,
+            "profile_url": profile_url,
+            "email": email,
+            "photo_url": photo_url
         })
 
     # Close the browser

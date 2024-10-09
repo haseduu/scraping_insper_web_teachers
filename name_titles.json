@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Adalto Barbaceia Gonçalves",
+        "position": "Professor Associado | Doutor em Administração de Empresas - FGV SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/adalto-barbaceia-gonçalves",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Adriana Bruscato Bortoluzzo",
+        "position": "Professora Titular | Doutora em Estatística - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/adriana-bruscato-bortoluzzo",
+        "email": "adrianab@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Adriana%20Bruscato%20003bx.jpg"
+    },
+    {
+        "name": "Adriano Borges Ferreira Da Costa",
+        "position": "Professor Assistente | Doutor em Administração Pública - FGV",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/adriano-borges-ferreira-da-costa",
+        "email": "adrianobfc@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Adriano%20Costa%20012bx.jpg"
+    },
+    {
+        "name": "Alex Camilli Bottene",
+        "position": "Professor Assistente | Doutor em Engenharia de Produção - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/alex-camilli-bottene",
+        "email": "alexcb@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Alex%20Bottene%20004bx.jpg"
+    },
+    {
+        "name": "Allyne Andrade e Silva",
+        "position": "Teaching Fellow | Doutora em Direito - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/allyne-andrade-e-silva",
+        "email": "allyneas@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Aline%20Andrade%20012bx.jpg"
+    },
+    {
+        "name": "Ana Paula Rodrigues Diniz",
+        "position": "Professor Assistente | Doutora em Administração Pública e Governo - FGV SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/ana-paula-rodrigues-diniz",
+        "email": "anaprd@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Ana%20Diniz%20029bx.jpg"
+    },
+    {
+        "name": "Andre Filipe de Moraes Batista",
+        "position": "Professor Assistente | Doutor em Engenharia Elétrica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/andre-filipe-de-moraes-batista",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Andre Luis De Castro Moura Duarte",
+        "position": "Senior Teaching Fellow | Doutor em Administração - FGV/SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/andre-luis-de-castro-moura-duarte",
+        "email": "andrelcmd@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Andre%20Duarte%20%20013bx.jpg"
+    },
+    {
+        "name": "Andrea Maria Accioly Fonseca Minardi",
+        "position": "Senior Research Fellow | Doutora em Administração - FGV SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/andrea-maria-accioly-fonseca-minardi",
+        "email": "minardi@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Andrea%20Minardi%20005bx.jpg"
+    },
+    {
+        "name": "Andrew Toshiaki Nakayama Kurauchi",
+        "position": "Professor Assistente | Doutor em Ciências Da Computação - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/andrew-toshiaki-nakayama-kurauchi",
+        "email": "andrewtnk@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Andrew%20Kurauchi%20004bx.jpg"
+    },
+    {
+        "name": "Antonio Carlos Rosso Junior",
+        "position": "Teaching Fellow | Mestre em Engenharia de Sistemas - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/antonio-carlos-rosso-junior",
+        "email": "antoniocrj@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Antonio%20Carlos%20Rosso%20Junior_sem-foto_CV.jpg"
+    },
+    {
+        "name": "Bernardo De Oliveira Guerra Ricca",
+        "position": "Professor Assistente | Ph.D. em Finanças - London School of Economics and Political Science",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/bernardo-de-oliveira-guerra-ricca",
+        "email": "bernardoogr@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Bernardo%20Ricca%20015bx.jpg"
+    },
+    {
+        "name": "Bruna Arruda de Oliveira",
+        "position": "Teaching Fellow | Mestra em Engenharia Mecânica - UEM",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/bruna-arruda-de-oliveira",
+        "email": "brunaao@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Bruna%20Arruda%20v3%20002bx.jpg"
+    },
+    {
+        "name": "Bruno Varella Miranda",
+        "position": "Professor Assistente | Ph.D. em Economia Aplicada - University of Missouri",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/bruno-varella-miranda",
+        "email": "brunovm@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Bruno%20Miranda%20014bx.jpg"
+    },
+    {
+        "name": "Caio Farah Rodriguez",
+        "position": "Senior Fellow | Doutor em Direito - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/caio-farah-rodriguez",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Caio Fernando Rodrigues dos Santos",
+        "position": "Professor Assistente | Doutor em Engenharia Mecânica - UNICAMP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/caio-fernando-rodrigues-dos-santos",
+        "email": "caiofrs@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Caio%20Rodrigues%20005bx.jpg"
+    },
+    {
+        "name": "Camila Pereira Boscov",
+        "position": "Professor Adjunto | Doutora em Controladoria e Contabilidade - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/camila-pereira-boscov",
+        "email": "camilapb2@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Professora_Camila%20-BoscovCV.jpg"
+    },
+    {
+        "name": "Carla Sofia Dias Moreira Ramos",
+        "position": "Professor Associado | Ph.D. em Administração - University of Bath",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/carla-sofia-dias-moreira-ramos",
+        "email": "carlasdmr@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Carla%20Ramos%20006bx.jpg"
+    },
+    {
+        "name": "Carlos Alberto Furtado de Melo",
+        "position": "Senior Teaching Fellow | Doutor em Ciências Sociais - PUC/SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/carlos-alberto-furtado-de-melo",
+        "email": "carlos.melo@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Carlos%20Melo%20005.jpg"
+    },
+    {
+        "name": "Carlos Eduardo de Brito Novaes",
+        "position": "Professor Assistente | Doutor em Engenharia Elétrica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/carlos-eduardo-de-brito-novaes",
+        "email": "carlosebn@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Carlos%20Novaes%20008bx.jpg"
+    },
+    {
+        "name": "Carlos Magno de Oliveira Valente",
+        "position": "Professor Assistente | Doutor em Engenharia Mecânica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/carlos-magno-de-oliveira-valente",
+        "email": "carlosmov@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Carlos%20Valente%20029bx.jpg"
+    },
+    {
+        "name": "Carolina Pedrosa Gomes de Melo",
+        "position": "Professor Assistente | Doutora em Economia dos Negócios - Insper",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/carolina-pedrosa-gomes-de-melo",
+        "email": "carolinapgm1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Carolina%20Melo%20008bx.jpg"
+    },
+    {
+        "name": "Charles Kirschbaum",
+        "position": "Professor Associado | Doutor em Administração De Empresas - FGV SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/charles-kirschbaum",
+        "email": "charlesk1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Charles%20Kirschbaum%20004bx.jpg"
+    },
+    {
+        "name": "Cristine Campos de Xavier Pinto",
+        "position": "Professora Titular | PhD em Economia - UC Berkeley",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/cristine-campos-de-xavier-pinto",
+        "email": "cristinecxp@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Cristine%20Pinto%20006bx.jpg"
+    },
+    {
+        "name": "Danny Claro",
+        "position": "Professor Titular | PhD em Administração - Universidade Wageningen",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/danny-claro",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Darcio Genicolo Martins",
+        "position": "Professor Assistente | Doutor em Economia dos Negócios - Insper",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/darcio-genicolo-martins",
+        "email": "darciogm1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Darcio%20Genicolo%20005.jpg"
+    },
+    {
+        "name": "Diego Werneck Arguelhes",
+        "position": "Professor Associado | Doutor em Direito - Yale University",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/diego-werneck-arguelhes",
+        "email": "diegowa@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Diego%20Werneck%20004bx.jpg"
+    },
+    {
+        "name": "Eduardo Correia de Souza",
+        "position": "Professor Assistente | Doutor em Economia - UFRJ",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/eduardo-correia-de-souza",
+        "email": "eduardocs@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/eduardo%20correia.jpg"
+    },
+    {
+        "name": "Eduardo Faingold",
+        "position": "Professor Associado | PhD em Economia - University of Pennsylvania",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/eduardo-faingold",
+        "email": "eduardof9@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Eduardo-Faingold.png"
+    },
+    {
+        "name": "Edvalter Becker Holz",
+        "position": "Professor Assistente | Doutor em Administração de Empresas - FGV SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/edvalter-becker-holz",
+        "email": "edvalterbh@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Edvalter%20Holtz%20062bx.jpg"
+    },
+    {
+        "name": "Eric Aversari Martins",
+        "position": "Teaching Fellow | Doutor em Ciências Contábeis - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/eric-aversari-martins",
+        "email": "EricaM@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/eric%20aversari%20martins.jpeg"
+    },
+    {
+        "name": "Fabio Ferraz Junior",
+        "position": "Professor Assistente | Doutor em Engenharia Mecânica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fabio-ferraz-junior",
+        "email": "fabiofj@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fabio%20Ferraz%20002bx.jpg"
+    },
+    {
+        "name": "Fabio Jose Ayres",
+        "position": "Professor Assistente | PhD em Engenharia Eletrotécnica e de Computadores - University of Calgary",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fabio-jose-ayres",
+        "email": "fabioja@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fabio%20Jose%20Ayres%20SF.jpg"
+    },
+    {
+        "name": "Fabio Orfali",
+        "position": "Professor Associado | Doutor em Educação - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fabio-orfali",
+        "email": "fabioo1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fabio%20Orfali%20009bx.jpg"
+    },
+    {
+        "name": "Fabio Pelicano Borges Vieira",
+        "position": "Teaching Fellow | Mestre em Matemática - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fabio-pelicano-borges-vieira",
+        "email": "fabiopbv@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/F%C3%A1bio%20Pelicano%20004bx.jpg"
+    },
+    {
+        "name": "Fabio Roberto de Miranda",
+        "position": "Senior Teaching Fellow | Mestre em Sistemas Eletrônicos - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fabio-roberto-de-miranda",
+        "email": "fabiomiranda@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fabio%20de%20Miranda%20n018bx.jpg"
+    },
+    {
+        "name": "Fabio Sismotto El Hage",
+        "position": "Professor Assistente | Doutor em Engenharia Elétrica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fabio-sismotto-el-hage",
+        "email": "fhage@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fabio%20Hage%20018bx.jpg"
+    },
+    {
+        "name": "Fabio Turri",
+        "position": "Professor Assistente | Doutor em Engenharia Mecânica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fabio-turri",
+        "email": "fabiot5@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/F%C3%A1bio%20Turri%20008bx.jpg"
+    },
+    {
+        "name": "Fabricio Jailson Barth",
+        "position": "Professor Assistente | Doutor em Engenharia Elétrica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fabricio-jailson-barth",
+        "email": "fabriciojb@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fabri%CC%81cio%20Barth%20CV.jpg"
+    },
+    {
+        "name": "Fernando Goncalves Picasso",
+        "position": "Professor Assistente | Doutor em Administração de Empresas - FGV",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fernando-goncalves-picasso",
+        "email": "fernandop8@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fernando%20Picasso%20012bx.jpg"
+    },
+    {
+        "name": "Fernando Luis Schuler",
+        "position": "Professor Assistente | Doutor em Filosofia - UFRGS",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fernando-luis-schuler",
+        "email": "fernandols1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fernando%20Schiller%20003bx.jpg"
+    },
+    {
+        "name": "Fernando Ribeiro Leite Neto",
+        "position": "Professor Assistente | Doutor em Ciências Sociais - PUC-SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/fernando-ribeiro-leite-neto",
+        "email": "fernandorln@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fernando%20Leite%20054bx.jpg"
+    },
+    {
+        "name": "Flavia Ferreira Piazza",
+        "position": "Professor Assistente | PhD em Administração de Empresas - Tulane University",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/flavia-ferreira-piazza",
+        "email": "flavia.piazza@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Fl%C3%A1via%20Piazza%20012bx.jpg"
+    },
+    {
+        "name": "Frederico Augusto Alem Barbieri",
+        "position": "Professor Adjunto | Doutor em Engenharia Mecânica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/frederico-augusto-alem-barbieri",
+        "email": "fredericoaab@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Frederico%20Augusto%20Alem%20Barbieri%20SF.jpg"
+    },
+    {
+        "name": "Gabriela de Oliveira Junqueira",
+        "position": "Professora Assistente | Doutora em Direito - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/gabriela-de-oliveira-junqueira",
+        "email": "gabrielaoj@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Gabriela-Junqueira.png"
+    },
+    {
+        "name": "Gino Abraham Olivares Leandro",
+        "position": "Professor Adjunto | Doutor em Economia - PUC-Rio",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/gino-abraham-olivares-leandro",
+        "email": "ginoaol@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Gino%20Olivares%20018bx.jpg"
+    },
+    {
+        "name": "Giuliana Isabella",
+        "position": "Professor Assistente | Doutora em Administração de Empresas - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/giuliana-isabella",
+        "email": "giulianai@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Giuliana%20Isabela%20016bx.jpg"
+    },
+    {
+        "name": "Graziela Simone Tonin",
+        "position": "Professora Assistente | Doutora em Ciência da Computação - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/graziela-simone-tonin",
+        "email": "grazielast@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Graziela%20Tonin%20042bx.jpg"
+    },
+    {
+        "name": "Guilherme Fowler de Avila Monteiro",
+        "position": "Professor Associado | Doutor em Administração - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/guilherme-fowler-de-avila-monteiro",
+        "email": "guilhermefam@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Guilherme%20Fowler%20023bx.jpg"
+    },
+    {
+        "name": "Guilherme Silveira Martins",
+        "position": "Professor Associado | Doutor em Administração de Empresas - FGV",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/guilherme-silveira-martins",
+        "email": "guilhermesm2@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Guilherme%20Martins%20008bx%20CV.jpg"
+    },
+    {
+        "name": "Guilherme da Franca Couto Fernandes de Almeida",
+        "position": "Professor Assistente | Doutor em Direito - PUC-Rio",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/guilherme-da-franca-couto-fernandes-de-almeida",
+        "email": "guilhermefcfa@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Guilherme%20Almeida%20CV.jpg"
+    },
+    {
+        "name": "Gustavo Moreira Tavares",
+        "position": "Professor Assistente | Doutor em Administração - FGV",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/gustavo-moreira-tavares",
+        "email": "gustavomt1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Gustavo%20Tavres%20CV.jpg"
+    },
+    {
+        "name": "Hedibert Freitas Lopes",
+        "position": "Professor Titular | PhD em Estatística e Teoria da Decisão - Duke University",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/hedibert-freitas-lopes",
+        "email": "hedibertfl@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Hedibert%20Lopes%20004bx.jpg"
+    },
+    {
+        "name": "Igor dos Santos Montagner",
+        "position": "Professor Assistente | Doutor em Ciência da Computação - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/igor-dos-santos-montagner",
+        "email": "igorsm1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Igor%20Dos%20Santos%20Montagner%20SF.jpg"
+    },
+    {
+        "name": "Isabela Brandao Furtado",
+        "position": "Professor Assistente | Doutora em Economia - FGV/SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/isabela-brandao-furtado",
+        "email": "isabelabf@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Isabela%20Furtado%20004bx.jpg"
+    },
+    {
+        "name": "Israel Ferreira Alves",
+        "position": "Professor Adjunto | Mestre em Ensino de Ciências - UNICSUL",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/israel-ferreira-alves",
+        "email": "israelfa@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Israel%20Alves%20013bx.jpg"
+    },
+    {
+        "name": "Ivar Alberto Glasherster Martins Lange Hartmann",
+        "position": "Professor Associado | Doutor em Direito - UERJ",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/ivar-alberto-glasherster-martins-lange-hartmann",
+        "email": "ivaragmlh@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Ivar%20Hartmann%202%20009bx.jpg"
+    },
+    {
+        "name": "Joice Miagava",
+        "position": "Professor Assistente | Doutora em Engenharia Metalúrgica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/joice-miagava",
+        "email": "joicem@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Joice%20Miagava%20001bx.jpg"
+    },
+    {
+        "name": "Jose Geraldo Setter Filho",
+        "position": "Teaching Fellow | Doutor em Ciências, Administração e Governança Corporativa - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/jose-geraldo-setter-filho",
+        "email": "josegsf1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Jose%20G%20Setter%20056bx.jpg"
+    },
+    {
+        "name": "Jose Heleno Faro",
+        "position": "Professor Associado | Doutor em Economia Matemática - IMPA",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/jose-heleno-faro",
+        "email": "josehf@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Jose-Heleno-Faro.jpeg"
+    },
+    {
+        "name": "Juliana Inhasz",
+        "position": "Professor Assistente | Doutora em Economia - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/juliana-inhasz",
+        "email": "julianai1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Juliana%20Inhasz%20041bx.jpg"
+    },
+    {
+        "name": "Laura Muller Machado",
+        "position": "Teaching Fellow | Mestra em Economia - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/laura-muller-machado",
+        "email": "lauramm1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Laura%20Muller%20020bx.jpg"
+    },
+    {
+        "name": "Laura de Andrade Karpuska Santos",
+        "position": "Professor Associado | PhD em Economia -  SUNY Stony Brook",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/laura-de-andrade-karpuska-santos",
+        "email": "lauraaks@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/legacy-media/2022/03/Professora_Laura-Karpuska.jpg"
+    },
+    {
+        "name": "Leonidas Sandoval Junior",
+        "position": "Teaching Fellow | PhD em Matemática - University of London",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/leonidas-sandoval-junior",
+        "email": "leonidassj@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Leonidas%20Novaes%20CV.jpg"
+    },
+    {
+        "name": "Leticia Faria de Carvalho Nunes",
+        "position": "Professor Assistente | Doutora em Economia - FGV",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/leticia-faria-de-carvalho-nunes",
+        "email": "leticiafcn@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Leticia%20Faria%20De%20Carvalho%20Nunes%20SF.jpg"
+    },
+    {
+        "name": "Lie Pablo Grala Pinto",
+        "position": "Professor Assistente | Doutor em Engenharia de Automação e Sistemas - UFSC",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/lie-pablo-grala-pinto",
+        "email": "liepgp@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Lie%20Pablo%20009bx.jpg"
+    },
+    {
+        "name": "Lucas Martins Novaes",
+        "position": "Professor Associado | PhD em Ciência Política - UC Berkeley",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/lucas-martins-novaes",
+        "email": "lucasmn2@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Lucas%20Novaes%20051bx.jpg"
+    },
+    {
+        "name": "Luciana Campos Lima",
+        "position": "Professor Assistente | Doutora em Administração - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/luciana-campos-lima",
+        "email": "lucianacl@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Luciana%20Lima%20010bx.jpg"
+    },
+    {
+        "name": "Luciana Yeung",
+        "position": "Professor Associado | Doutora em Economia - FGV/SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/luciana-yeung",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Luciano Pereira Soares",
+        "position": "Professor Associado | Doutor em Engenharia Elétrica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/luciano-pereira-soares",
+        "email": "lucianops@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Luciano%20Soares%20009bx.jpg"
+    },
+    {
+        "name": "Luiz Felipe Campos Fontes",
+        "position": "Professor Assistente | Doutor em Economia - FGV",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/luiz-felipe-campos-fontes",
+        "email": "luiz.fontes@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Luiz%20Felipe%20Campos%20Fontes%20SF.jpg"
+    },
+    {
+        "name": "Luiz Fernando Gomes Esteves",
+        "position": "Professor Assistente | Doutor em Direito - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/luiz-fernando-gomes-esteves",
+        "email": "luizfge@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Luiz%20Esteves%20019bx.jpg"
+    },
+    {
+        "name": "Luiz Francisco Modenese Vieira",
+        "position": "Senior Fellow | PhD em Engenharia de Transporte - Massachusetts Institute of Technology",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/luiz-francisco-modenese-vieira",
+        "email": "luizfmv@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Luiz%20Francisco%20Modenese%20Vieira%20SF.jpg"
+    },
+    {
+        "name": "Maciel Calebe Vidal",
+        "position": "Professor Assistente | Doutor em Ciência da Computação - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/maciel-calebe-vidal",
+        "email": "macielcv@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Maciel%20Vidal%20007bx%20CV.jpg"
+    },
+    {
+        "name": "Marcelo Hashimoto",
+        "position": "Professor Assistente | Doutor em Ciência da Computação - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/marcelo-hashimoto",
+        "email": "marceloh2@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Marcelo%20Hashimoto%20019bx.jpg"
+    },
+    {
+        "name": "Marco Antonio Cesar Bonomo",
+        "position": "Professor Titular | PhD em Economia - Princeton University",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/marco-antonio-cesar-bonomo",
+        "email": "marcoacb@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Marco%20Bonomo%20015bx.jpg"
+    },
+    {
+        "name": "Marco Antonio Leonel Caetano",
+        "position": "Professor Adjunto | Doutor em Engenharia Aeronáutica e Mecânica - ITA",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/marco-antonio-leonel-caetano",
+        "email": "marcoalc1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Marco%20Caetano%20003bx.jpg"
+    },
+    {
+        "name": "Marcos Sawaya Jank",
+        "position": "Senior Research Fellow | Doutor em Administração - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/marcos-sawaya-jank",
+        "email": "marcos@jank.com.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Marcos%20Jank%20CV.jpg"
+    },
+    {
+        "name": "Maria Carolina Foss",
+        "position": "Professora Assistente | Doutora em Política Cientifica e Tecnológica - Unicamp",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/maria-carolina-foss",
+        "email": "mariacf2@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Maria%20Carolina%20Foss%20SF.jpg"
+    },
+    {
+        "name": "Mariana Chies Santiago Santos",
+        "position": "Professora Assistente | Doutora em Sociologia - UFRGS",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/mariana-chies-santiago-santos",
+        "email": "marianacss@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Mariana%20Chies%20026bx.jpg"
+    },
+    {
+        "name": "Maura Ferreira Rodrigues",
+        "position": "Professora Assistente | Doutora em Administração - PUC/RS",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/maura-ferreira-rodrigues",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Miguel M. Charters de Oliveira Bandeira da Silva",
+        "position": "Professor Assistente | PhD em Economia - London School of Economics",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/miguel-m.-charters-de-oliveira-bandeira-da-silva",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Naercio Aquino Menezes Filho",
+        "position": "Professor Titular | Cátedra Ruth Cardoso | Ph.D. em Economia - University of London",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/naercio-aquino-menezes-filho",
+        "email": "naercioamf@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/naercio%20menezes.jpg"
+    },
+    {
+        "name": "Nelson Ricardo Laverde Cubillos",
+        "position": "Professor Assistente | Ph.D. In Public Policy - Carnegie Mellon University",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/nelson-ricardo-laverde-cubillos",
+        "email": "nelsonrlc@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Nelson%20Ricardo%20Laverde%20Cubillos%20SF.jpg"
+    },
+    {
+        "name": "Patricia Rodrigues Pessoa Valente",
+        "position": "Professora Assistente | Doutora em Direito do Estado - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/patricia-rodrigues-pessoa-valente",
+        "email": "patriciarpv@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Patr%C3%ADcia%20Valente%20016bx.jpg"
+    },
+    {
+        "name": "Paulina Alejandra Achurra Burgos",
+        "position": "Professor Assistente | Ph.D. em Engenharia Química - Stanford University",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/paulina-alejandra-achurra-burgos",
+        "email": "paulinaaab@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Paulina%20Achurra%20023bx.jpg"
+    },
+    {
+        "name": "Paulo Cilas Marques Filho",
+        "position": "Professor Assistente | Doutor em Estatística - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/paulo-cilas-marques-filho",
+        "email": "paulocmf1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Paulo%20Marques%20CV.jpg"
+    },
+    {
+        "name": "Paulo Furquim de Azevedo",
+        "position": "Professor Titular | Cátedra Família Martinez Goldberg | Doutor em Economia - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/paulo-furquim-de-azevedo",
+        "email": "paulofa1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Paulo%20Furquim%20CV.jpg"
+    },
+    {
+        "name": "Paulo Roberto Bufacchi Mendes",
+        "position": "Professor Assistente | Doutor em Engenharia Mecânica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/paulo-roberto-bufacchi-mendes",
+        "email": "paulorbm1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Paulo%20Bufacchi%20006bx.jpg"
+    },
+    {
+        "name": "Paulo Sergio Oliveira Ribeiro",
+        "position": "Professor Assistente | Doutor em Economia dos Negócios - Insper",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/paulo-sergio-oliveira-ribeiro",
+        "email": "paulosor1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Paulo%20Ribeiro%20009bx.jpg"
+    },
+    {
+        "name": "Paulo de Paiva Rosa Amaral",
+        "position": "Professor Assistente | PhD em Genética Molecular - University of Queensland",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/paulo-de-paiva-rosa-amaral",
+        "email": "paulopra@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Paulo%20Amaral%20004bx.jpg"
+    },
+    {
+        "name": "Pedro Fernandes Makhoul",
+        "position": "Professor Assistente | PhD em Administração - University of California",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/pedro-fernandes-makhoul",
+        "email": "pedro.makhoul@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/pedro%20makhoul.jpg"
+    },
+    {
+        "name": "Pedro Garcia Duarte",
+        "position": "Professor Associado | PhD em Economia - Duke University",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/pedro-garcia-duarte",
+        "email": "pedrogd3@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Pedro%20Duarte%20012bx.jpg"
+    },
+    {
+        "name": "Pedro Jimenez Cantisano",
+        "position": "Professor Assistente | PhD em História - University of Michigan",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/pedro-jimenez-cantisano",
+        "email": "pedrojc1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Pedro%20Cantisano%20011bx.jpg"
+    },
+    {
+        "name": "Priscila Borin de Oliveira Claro",
+        "position": "Professora Associada | Doutora em Administração - UFLA",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/priscila-borin-de-oliveira-claro",
+        "email": "priscila.claro@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Priscila%20Claro%20049bx.jpg"
+    },
+    {
+        "name": "Priscila Fernandes Ribeiro",
+        "position": "Professora Assistente | Doutora em Economia de Empresas - FGV",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/priscila-fernandes-ribeiro",
+        "email": "priscilafr1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Priscila%20Fernandes%20Ribeiro%20SF.jpg"
+    },
+    {
+        "name": "Rafael Corsi Ferrao",
+        "position": "Professor Adjunto | Mestre em Engenharia Elétrica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/rafael-corsi-ferrao",
+        "email": "rafaelcf4@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Rafael%20Ferr%C3%A3o%20005bx.jpg"
+    },
+    {
+        "name": "Rafael Scavone Bellem de Lima",
+        "position": "Professor Assistente | Doutor em Direito - USP e Christian-Albrechts-Universität zu Kiel",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/rafael-scavone-bellem-de-lima",
+        "email": "rafaelsbl@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Rafael%20Bellem%20022bx.jpg"
+    },
+    {
+        "name": "Raphael Galdino dos Santos",
+        "position": "Professor Assistente | Doutor em Engenharia de Produção - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/raphael-galdino-dos-santos",
+        "email": "raphaelgs@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Raphael%20Galdino%20005bx.jpg"
+    },
+    {
+        "name": "Raul Ikeda Gomes da Silva",
+        "position": "Professor Adjunto | Mestre em Engenharia Eletrônica e Computação - ITA",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/raul-ikeda-gomes-da-silva",
+        "email": "rauligs@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Raul%20Ikeda%20016bx.jpg"
+    },
+    {
+        "name": "Ricardo Paes de Barros",
+        "position": "Professor Titular | PhD em Economia - University of Chicago",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/ricardo-paes-de-barros",
+        "email": "ricardopb1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Ricardo%20Paes%20de%20Barros%20006bx.jpg"
+    },
+    {
+        "name": "Rinaldo Artes",
+        "position": "Professor Titular | Doutor em Estatística - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/rinaldo-artes",
+        "email": "rinaldoa@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Rinaldo%20Artes%20SF.jpg"
+    },
+    {
+        "name": "Rodolfo da Silva Avelino",
+        "position": "Professor Assistente | Doutor em Ciências Humanas e Sociais - UFABC",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/rodolfo-da-silva-avelino",
+        "email": "rodolfosa1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Rodolfo%20Avelino%20045bx.jpg"
+    },
+    {
+        "name": "Rodrigo Carareto",
+        "position": "Professor Assistente | Doutor em Engenharia Elétrica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/rodrigo-carareto",
+        "email": "rodrigoc5@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Rodrigo%20Carareto%20SF.jpg"
+    },
+    {
+        "name": "Rodrigo Reis Soares",
+        "position": "Professor Titular | Cátedra Fundação Lemann | PhD em Economia - University of Chicago",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/rodrigo-reis-soares",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Rogerio Bianchi Santarrosa",
+        "position": "Professor Assistente | PhD em Economia - University of British Columbia",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/rogerio-bianchi-santarrosa",
+        "email": "rogeriobs2@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Rog%C3%A9rio%20Santarrosa%20022bx.jpg"
+    },
+    {
+        "name": "Ruy Monteiro Ribeiro",
+        "position": "Professor Associado | PhD em Finanças - University of Chicago",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/ruy-monteiro-ribeiro",
+        "email": "ruymr@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Ruy%20Ribeiro%20017bx.jpg"
+    },
+    {
+        "name": "Sandro Cabral",
+        "position": "Professor Titular | Doutor em Administração - UFBA",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/sandro-cabral",
+        "email": "sandroc2@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Sandro%20Holtz%20013bx.jpg"
+    },
+    {
+        "name": "Sergio Giovanetti Lazzarini",
+        "position": "Professor Titular | Cátedra Chafi Haddad  | Ph.D. em Administração - Washington University, St. Loui",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/sergio-giovanetti-lazzarini",
+        "email": "sergiogl1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/S%C3%A9rgio%20Lazzarini%20(5).jpg"
+    },
+    {
+        "name": "Sergio Pinheiro Firpo",
+        "position": "Professor Titular | Cátedra Instituto Unibanco  | PhD em Economia - UC Berkeley",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/sergio-pinheiro-firpo",
+        "email": "sergiopf1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Sergio%20Firpo%20004bx.jpg"
+    },
+    {
+        "name": "Sergio Ricardo Martins",
+        "position": "Professor Adjunto | Mestre em Estatística - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/sergio-ricardo-martins",
+        "email": "sergiorm@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Sergio%20Ricardo%20Martins%20SF.jpg"
+    },
+    {
+        "name": "Silvio Abrahao Laban Neto",
+        "position": "Professor Senior Teaching Fellow | Doutor em Administração de Empresas - FGV/SP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/silvio-abrahao-laban-neto",
+        "email": "silvioaln@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Silvio%20Laban%20005bx.jpg"
+    },
+    {
+        "name": "Silvio Szafir",
+        "position": "Teaching Fellow | Mestre em Engenharia Mecânica - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/silvio-szafir",
+        "email": "silvios2@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Silvio%20Szafir%20015bx.jpg"
+    },
+    {
+        "name": "Tatiana Iwai",
+        "position": "Professora Associada | Doutora em Administração - FGV",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/tatiana-iwai",
+        "email": "tatianai@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Tatiana%20Iwai%20CV.jpg"
+    },
+    {
+        "name": "Thiago Jose Cysneiros Cavalcanti Soares",
+        "position": "Professor Assistente | Doutor em Engenharia de Produção - USP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/thiago-jose-cysneiros-cavalcanti-soares",
+        "email": "thiagojccs@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Thiago%20Soares%20008bx.jpg"
+    },
+    {
+        "name": "Tiago Fernandes Tavares",
+        "position": "Professor Assistente | Doutor em Engenharia Elétrica - UNICAMP",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/tiago-fernandes-tavares",
+        "email": "tiagoft1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Tiago%20Tavares%20002bx.jpg"
+    },
+    {
+        "name": "Tomás Rodriguez Martinez",
+        "position": "Professor Assistente | PhD em Economia - Universidad Carlos III de Madrid",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/tomás-rodriguez-martinez",
+        "email": null,
+        "photo_url": null
+    },
+    {
+        "name": "Ursula Mattioli Mello",
+        "position": "Professora Assistente | PhD em Economia - Universidad Carlos III de Madrid",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/ursula-mattioli-mello",
+        "email": "ursula.mello@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Ursula%20Mattioli%20Mello%20SF.jpg"
+    },
+    {
+        "name": "Vinicius Licks",
+        "position": "Professor Associado | PhD em Engenharia Elétrica – University of New Mexico",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/vinicius-licks",
+        "email": "viniciusl1@insper.edu.br",
+        "photo_url": "https://www.insper.edu.br/content/dam/insper-portal/imagens/Docentes/Vinicius%20Licks.jpg"
+    },
+    {
+        "name": "Vinicius Picanço Rodrigues",
+        "position": "Professor Assistente | PhD em Engenharia - Technical University of Denmark",
+        "profile_url": "https://www.insper.edu.br/pt/docentes/vinicius-picanço-rodrigues",
+        "email": null,
+        "photo_url": null
+    }
+]
