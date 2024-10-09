@@ -1,4 +1,4 @@
-# scraping_insper_web_teachers
+# scraping insper web teachers
 
 ## Como usar
 ### Ter o chrome instalado e python.
