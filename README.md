@@ -2,7 +2,7 @@
 
 ## Como usar
 ### Ter o chrome instalado e python.
-Podendo instalar o python por esse link: **https://www.python.org/downloads/**/n
+Podendo instalar o python por esse link: **https://www.python.org/downloads/**   
 Podendo instalar o chrome pelo link: **https://www.google.com/intl/pt-BR/chrome/**
 ### Instalar as dependências exigidas para o código rodar.
 Com o python instalado, no terminal certifique que voçê está na root do repositório e utilize o comando:
