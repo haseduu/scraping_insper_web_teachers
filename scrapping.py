@@ -59,7 +59,7 @@ def scrape_website(url):
     def click_load_more(driver, max_retries=3):
         """Attempts to click the 'Load More' button on the webpage."""
         retries = 0
-        for _ in range (8):
+        for i in range (8):
             try:
                 scroll_down()  # Scroll down to ensure the button is visible
                 load_more_button = WebDriverWait(driver, 10).until(
